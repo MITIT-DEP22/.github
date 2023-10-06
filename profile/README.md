@@ -15,7 +15,7 @@ Managed by:
 - Skiddi, Dmytro Rumsha, Mark Fieldman (2018, 2019)
 - Oleksii Dobroshtan, Dmytro Annason (2020)
 - Oleksandr Sachuk (2021)
-- Vitalii Dolhushyn, Boris Ohorodnii (2022, 2023)
+- [Vitalii Dolhushyn](https://github.com/Brazilianian), [Boris Ohorodnii](https://github.com/DadyaBorya) (2022, 2023)
 
 ## Monitoring System of Department
   There are 3 repos in this project: <br>
@@ -25,30 +25,30 @@ Managed by:
   [Client](https://github.com/MITIT-DEP22/MonitoringClient) <br>
 
   Created in 2021 by:
-  - Boris Ohorodnii
-  - Vladlen Marchenko
-  - Vitalii Dolhushyn
-  - Olha Turchak
+  - [Boris Ohorodnii](https://github.com/DadyaBorya)
+  - [Vladlen Marchenko](https://github.com/VladLennin)
+  - [Vitalii Dolhushyn](https://github.com/Brazilianian)
+  - [Olha Turchak](https://github.com/olgaturchak)
 
 ## [Telegram Bot Assistant of MITIT](https://github.com/MITIT-DEP22/MititTgBot)
   Created in 2023 by:
-  - Denis Kozlov
+  - [Denis Kozlov](https://github.com/den-k-203)
 
 ## Web Site of MITIT
   There are 2 repos in this project: <br>
   
   [Front](https://github.com/MITIT-DEP22/mitit-front) <br>
   Created in 2023 by: 
-  - Vladlen Marchenko
-  - Vladislav Musikhin
-  - Boris Ohorodnii
+  - [Vladlen Marchenko](https://github.com/VladLennin)
+  - [Vladislav Musikhin](https://github.com/UncleTm-07)
+  - [Boris Ohorodnii](https://github.com/DadyaBorya)
 
   [Back](https://github.com/MITIT-DEP22/MititBack) <br>
   Created in 2023 by:
-  - Vialii Dolhushyn
-  - Oleksandr Zahorenko
+  - [Vialii Dolhushyn](https://github.com/UncleTm-07)
+  - [Oleksandr Zahorenko](https://github.com/OleksandrIX)
 
   UI/UX designers:
   - Valeria Maistryshyna
-  - Olha Turchar
+  - [Olha Turchak](https://github.com/olgaturchak)
   
