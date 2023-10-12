@@ -37,7 +37,7 @@ Managed by:
 ## Web Site of MITIT
   There are 2 repos in this project: <br>
   
-  [Front](https://github.com/MITIT-DEP22/mitit-front) <br>
+  [Front](https://github.com/MITIT-DEP22/MititFront) <br>
   Created in 2023 by: 
   - [Vladlen Marchenko](https://github.com/VladLennin)
   - [Vladislav Musikhin](https://github.com/UncleTm-07)
