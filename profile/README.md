@@ -41,6 +41,9 @@ Managed by:
   Created in 2023 by: 
   - [Vladlen Marchenko](https://github.com/VladLennin)
   - [Vladislav Musikhin](https://github.com/UncleTm-07)
+  
+  [Front Admin](https://github.com/MITIT-DEP22/MititAdminFront) <br>
+  Created in 2023 by:
   - [Boris Ohorodnii](https://github.com/DadyaBorya)
 
   [Back](https://github.com/MITIT-DEP22/MititBack) <br>
