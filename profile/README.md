@@ -34,7 +34,7 @@ Managed by:
   Created in 2023 by:
   - [Denis Kozlov](https://github.com/den-k-203)
     
-## [Telegram Bot Constructor]
+## Telegram Bot Constructor
 
  [Back](https://github.com/MITIT-DEP22/ConstructorTgBotBackend) <br>
  Created in 2023 by:
