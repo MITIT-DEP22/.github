@@ -23,7 +23,7 @@ There are each repo with their description below. Renew README file when new rep
 
 - ## [Monitoring System of Department](https://github.com/MITIT-DEP22/MonitoringSystem)
 
-<br>
+<hr>
 
 # In progress
 - ## [Gda](https://github.com/MITIT-DEP22/gda)
