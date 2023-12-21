@@ -7,18 +7,7 @@ There are each repo with their description below. Renew README file when new rep
 
 ## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
 
-## Monitoring System of Department
-  There are 3 repos in this project: <br>
-  
-  [Front](https://github.com/MITIT-DEP22/MonitoringFront) <br>
-  [Back](https://github.com/MITIT-DEP22/MonitoringBack) <br>
-  [Client](https://github.com/MITIT-DEP22/MonitoringClient) <br>
-
-  Created in 2021 by:
-  - [Boris Ohorodnii](https://github.com/DadyaBorya)
-  - [Vladlen Marchenko](https://github.com/VladLennin)
-  - [Vitalii Dolhushyn](https://github.com/Brazilianian)
-  - [Olha Turchak](https://github.com/olgaturchak)
+## [Monitoring System of Department] (https://github.com/MITIT-DEP22/MonitoringSystem)
 
 ## [Telegram Bot Assistant of MITIT](https://github.com/MITIT-DEP22/MititTgBot)
   Created in 2023 by:
