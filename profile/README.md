@@ -5,21 +5,13 @@ We hope organization will be managed in the nearest future by other developers. 
 
 There are each repo with their description below. Renew README file when new repo appears.
 
-## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
+- ## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
 
-## [Monitoring System of Department](https://github.com/MITIT-DEP22/MonitoringSystem)
+- ## [Monitoring System of Department](https://github.com/MITIT-DEP22/MonitoringSystem)
 
-## [Telegram Bot Assistant of MITIT](https://github.com/MITIT-DEP22/MititTgBot)
-  Created in 2023 by:
-  - [Denis Kozlov](https://github.com/den-k-203)
-    
-## Telegram Bot Constructor
+- ## [Telegram Bot MITIT](https://github.com/MITIT-DEP22/MititBotService)
 
- [Back](https://github.com/MITIT-DEP22/ConstructorTgBotBackend) <br>
- Created in 2023 by:
-  - [Denis Kozlov](https://github.com/den-k-203)
-    
-## Web Site of MITIT
+- ## Web Site of MITIT
   There are 2 repos in this project: <br>
   
   [Front](https://github.com/MITIT-DEP22/MititFront) <br>
