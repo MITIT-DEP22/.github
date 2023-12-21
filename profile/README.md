@@ -7,16 +7,6 @@ There are each repo with their description below. Renew README file when new rep
 
 ## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
 
-Created in 2017 by:
-- Korchevniy Evhenii
-- Volodymyr Shkitskii
-  
-Managed by:
-- Skiddi, Dmytro Rumsha, Mark Fieldman (2018, 2019)
-- Oleksii Dobroshtan, Dmytro Annason (2020)
-- Oleksandr Sachuk (2021)
-- [Vitalii Dolhushyn](https://github.com/Brazilianian), [Boris Ohorodnii](https://github.com/DadyaBorya) (2022, 2023)
-
 ## Monitoring System of Department
   There are 3 repos in this project: <br>
   
