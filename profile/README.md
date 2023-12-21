@@ -5,11 +5,20 @@ We hope organization will be managed in the nearest future by other developers. 
 
 There are each repo with their description below. Renew README file when new repo appears.
 
-- ## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
+<hr>
 
-- ## [Monitoring System of Department](https://github.com/MITIT-DEP22/MonitoringSystem)
+# Are being used in production
+- ## [Web Site of MITIT](https://github.com/MITIT-DEP22/MititWebsite)
+
+- ## [Schedule](https://github.com/MITIT-DEP22/schedule) 
 
 - ## [Telegram Bot MITIT](https://github.com/MITIT-DEP22/MititBotService)
 
-- ## [Web Site of MITIT](https://github.com/MITIT-DEP22/MititWebsite)
+- ## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
   
+<hr>
+
+# Were used in participations
+- ## [E-Vantazh](https://github.com/MITIT-DEP22/E-Vantazh)
+
+- ## [Monitoring System of Department](https://github.com/MITIT-DEP22/MonitoringSystem)
