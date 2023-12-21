@@ -7,7 +7,7 @@ There are each repo with their description below. Renew README file when new rep
 
 ## [Vstup Application](https://github.com/MITIT-DEP22/vstup_application)
 
-## [Monitoring System of Department] (https://github.com/MITIT-DEP22/MonitoringSystem)
+## [Monitoring System of Department](https://github.com/MITIT-DEP22/MonitoringSystem)
 
 ## [Telegram Bot Assistant of MITIT](https://github.com/MITIT-DEP22/MititTgBot)
   Created in 2023 by:
