@@ -19,7 +19,7 @@ There are each repo with their description below. Renew README file when new rep
 <hr>
 
 # Were used in participations
-- ## [NoisySpeechToText](https://github.com/MITIT-DEP22/NoisySpeechToText)
+- ## [NoisySpeechToText](https://github.com/MITIT-DEP22/SpeechRecognizerCore)
 
 - ## [E-Vantazh](https://github.com/MITIT-DEP22/E-Vantazh)
 
