@@ -29,4 +29,4 @@ There are each repo with their description below. Renew README file when new rep
 
 # In progress
 - ## [Gda](https://github.com/MITIT-DEP22/gda)
-- ## [Combat Trainings Log](https://github.com/MITIT-DEP22/Log-of-Combat-Training)
+- ## [Combat Training Log](https://github.com/MITIT-DEP22/Log-of-Combat-Training)
